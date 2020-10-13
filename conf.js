@@ -29,7 +29,7 @@ jsproxy_config({
     },
     ****/
     'mysite': {
-      label: '当前站点',
+      label: 'default',
       lines: {
         [location.host]: 1,
       }
